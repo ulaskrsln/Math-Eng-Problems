@@ -1,0 +1,7 @@
+C:\Users\mulas\source\repos\GameTheo\NumericalAnalysis\bin\Debug\NumericalAnalysis.exe.config
+C:\Users\mulas\source\repos\GameTheo\NumericalAnalysis\bin\Debug\NumericalAnalysis.exe
+C:\Users\mulas\source\repos\GameTheo\NumericalAnalysis\bin\Debug\NumericalAnalysis.pdb
+C:\Users\mulas\source\repos\GameTheo\NumericalAnalysis\obj\Debug\NumericalAnalysis.csproj.AssemblyReference.cache
+C:\Users\mulas\source\repos\GameTheo\NumericalAnalysis\obj\Debug\NumericalAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\mulas\source\repos\GameTheo\NumericalAnalysis\obj\Debug\NumericalAnalysis.exe
+C:\Users\mulas\source\repos\GameTheo\NumericalAnalysis\obj\Debug\NumericalAnalysis.pdb

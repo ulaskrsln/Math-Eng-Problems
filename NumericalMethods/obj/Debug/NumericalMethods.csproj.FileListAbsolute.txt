@@ -1,0 +1,7 @@
+C:\Users\mulas\source\repos\GameTheo\NumericalMethods\bin\Debug\NumericalMethods.exe.config
+C:\Users\mulas\source\repos\GameTheo\NumericalMethods\bin\Debug\NumericalMethods.exe
+C:\Users\mulas\source\repos\GameTheo\NumericalMethods\bin\Debug\NumericalMethods.pdb
+C:\Users\mulas\source\repos\GameTheo\NumericalMethods\obj\Debug\NumericalMethods.csproj.AssemblyReference.cache
+C:\Users\mulas\source\repos\GameTheo\NumericalMethods\obj\Debug\NumericalMethods.csproj.CoreCompileInputs.cache
+C:\Users\mulas\source\repos\GameTheo\NumericalMethods\obj\Debug\NumericalMethods.exe
+C:\Users\mulas\source\repos\GameTheo\NumericalMethods\obj\Debug\NumericalMethods.pdb

@@ -1,0 +1,7 @@
+C:\Users\mulas\source\repos\GameTheo\MonteCarlo\bin\Debug\MonteCarlo.exe.config
+C:\Users\mulas\source\repos\GameTheo\MonteCarlo\bin\Debug\MonteCarlo.exe
+C:\Users\mulas\source\repos\GameTheo\MonteCarlo\bin\Debug\MonteCarlo.pdb
+C:\Users\mulas\source\repos\GameTheo\MonteCarlo\obj\Debug\MonteCarlo.csproj.AssemblyReference.cache
+C:\Users\mulas\source\repos\GameTheo\MonteCarlo\obj\Debug\MonteCarlo.csproj.CoreCompileInputs.cache
+C:\Users\mulas\source\repos\GameTheo\MonteCarlo\obj\Debug\MonteCarlo.exe
+C:\Users\mulas\source\repos\GameTheo\MonteCarlo\obj\Debug\MonteCarlo.pdb

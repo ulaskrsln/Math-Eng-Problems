@@ -1,0 +1,8 @@
+C:\Users\mulas\source\repos\GameTheo\GameTheo\bin\Debug\GameTheo.exe.config
+C:\Users\mulas\source\repos\GameTheo\GameTheo\bin\Debug\GameTheo.exe
+C:\Users\mulas\source\repos\GameTheo\GameTheo\bin\Debug\GameTheo.pdb
+C:\Users\mulas\source\repos\GameTheo\GameTheo\obj\Debug\GameTheo.csproj.AssemblyReference.cache
+C:\Users\mulas\source\repos\GameTheo\GameTheo\obj\Debug\GameTheo.csproj.CoreCompileInputs.cache
+C:\Users\mulas\source\repos\GameTheo\GameTheo\obj\Debug\GameTheo.exe
+C:\Users\mulas\source\repos\GameTheo\GameTheo\obj\Debug\GameTheo.pdb
+C:\Users\mulas\source\repos\GameTheo\GameTheo\obj\Debug\GameTheo.exe.config
